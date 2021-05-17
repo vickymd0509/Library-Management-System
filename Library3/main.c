@@ -1,9 +1,10 @@
 /* Authors: Niya Markova && Victoria Dimitrova
    Project Name: Library Management System
 	 Tasks: - to add new books;
-	 				- to search books;
-	 				- to delete books;
-	 				-	to note who took the book and when;	*/
+	        - to search books;
+	 	- to delete books;
+	 	- to note who took the book and when;
+		- to edit books records*/
 
 #include <stdio.h>
 #include <stdlib.h>
